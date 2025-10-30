@@ -23,7 +23,7 @@ These instructions will get you a copy of the project up and running on your loc
 
 2. Navigate to the project directory:
    ```bash
-   cd admin_dashboard_app
+   cd demo_adminpage_v1 
    ```
 
 3. Install dependencies:
